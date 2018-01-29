@@ -26,5 +26,15 @@ namespace GITTest
         {
             //good
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            // this is for test
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            // this is for test
+        }
     }
 }
